@@ -11,3 +11,7 @@ Onboarding document for members new to the Outlier Trading Community - welcome!
 - Recheck external links and tier benefits whenever the membership structure changes.
 
 Links last reviewed: 2026-08-16.
+
+
+Current membership facts and update procedure: [MEMBERSHIP.md](MEMBERSHIP.md).
+The benefit alignment review on November 7, 2026 did not reverify external access links.

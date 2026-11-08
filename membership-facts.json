@@ -1,0 +1,9 @@
+{
+  "canonicalUrl": "https://www.outliertrading.io/pro",
+  "paidTierIds": ["24436187", "25098583", "25824765"],
+  "paidTierNames": ["Outlier Pro", "Outlier Pro Plus", "Coaching"],
+  "askErikTierIds": ["24436187", "25098583", "25824765"],
+  "workshopsPerMonth": {"24436187": 0, "25098583": 2, "25824765": 2},
+  "firstMonthOffer": {"tierId": "24436187", "percentOff": 30, "firstTimeOnly": true, "emailBeforeCheckout": true},
+  "unlistedTierIds": ["29158293"]
+}
